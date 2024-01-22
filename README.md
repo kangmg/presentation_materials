@@ -1,3 +1,9 @@
+# Note
+1. Please be aware that there may be some misconceptions in the files.. 
+2. Disclaimer : I take no responsibility for any misconceptions that may arise from citing the files.
+
+<br/>
+
 ## Presentation materials for seminars in undergrad lab courses
 
 * TOPIC  :  [Measurement of Partial Molar Volume](https://github.com/kangmg/presentation_materials/raw/main/physical_chem_lab.pdf
