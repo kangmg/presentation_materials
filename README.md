@@ -17,5 +17,5 @@
 
 ## Seminar materials for Undergrad Informal Conference organized by [COCO](https://clubofchemistryoperation.notion.site/2e0e98c02a024d65aba7aee9f73fc717?v=0d99ffba95644234aa9d30ea49c0b1b9)
 
-* TOPIC  :  [Beyond the VSEPR theory, theoretical consideraton for determining molecular structure](https://github.com/kangmg/presentation_materials/raw/main/COCO_seminar.pdf
+* TOPIC  :  [Beyond the VSEPR theory, theoretical consideration for determining molecular structure](https://github.com/kangmg/presentation_materials/raw/main/COCO_seminar.pdf
 ) ( `Threo. Chem` / May 10, 2023 )
