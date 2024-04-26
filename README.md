@@ -19,3 +19,11 @@
 
 * TOPIC  :  [Beyond the VSEPR theory, theoretical consideration for determining molecular structure](https://github.com/kangmg/presentation_materials/raw/main/COCO_seminar.pdf
 ) ( `Threo. Chem` / May 10, 2023 )
+
+
+<br/>
+
+## Machine Learning modeling
+
+* TOPIC  :  [[kaggle]Abalone Age Prediction ML modeling (담당 파트만 편집)](https://github.com/kangmg/presentation_materials/raw/main/kaggle_abalone.pdf
+) ( `Kaggle ML competition` / April 26, 2024 )
