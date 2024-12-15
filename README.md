@@ -4,6 +4,13 @@
 
 <br/>
 
+## Project Semester Presentation
+
+* TOPIC  :  [AI-Accelerated Computational Chemistry : ML-Potential and its application](https://github.com/kangmg/presentation_materials/blob/main/final_1209_clean.pdf
+) ( `Project semester` / December 10, 2024 )
+
+<br/>
+
 ## Presentation materials for seminars in undergrad lab courses
 
 * TOPIC  :  [Measurement of Partial Molar Volume](https://github.com/kangmg/presentation_materials/raw/main/physical_chem_lab.pdf
@@ -19,8 +26,7 @@
 
 * TOPIC  :  [Beyond the VSEPR theory, theoretical consideration for determining molecular structure](https://github.com/kangmg/presentation_materials/raw/main/COCO_seminar.pdf
 ) ( `Threo. Chem` / May 10, 2023 )
-
-
+  
 <br/>
 
 ## Machine Learning modeling
